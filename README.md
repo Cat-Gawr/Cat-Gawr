@@ -1,9 +1,11 @@
-## Hi there 👋
+## Salve👋
 
   [![HitCount](https://hits.dwyl.com/Cat-gawr/Cat-gawr.svg?style=flat-square)](http://hits.dwyl.com/Cat-gawr/Cat-gawr)
 
 
 alcune cose su di me : 
+
+------------------------------------------------------
 
 -ho 14 anni e sono un programmatore di tipo ancor Junior ma sto iniziando a fare molta puù roba del solito
 
