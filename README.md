@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-<!--
-**Cat-Gawr/Cat-Gawr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  [![HitCount](https://hits.dwyl.com/Cat-gawr/Cat-gawr.svg?style=flat-square)](http://hits.dwyl.com/Cat-gawr/Cat-gawr)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+alcune cose su di me : 
+
+-ho 14 anni e sono un programmatore di tipo ancor Junior ma sto iniziando a fare molta puù roba del solito
+
+2-uno dei miei linguaggi preferti è Python ma non sottovaluto Ruby e Cpp(C++)
+
+3-ho utilizzato abbastanza il kernel Linux ma preferisco di stare su Windows
+
+4-single^_-
+
+5-Phone maid : vivo 200x pro mini
+
+6-kebab
+
+
+
+### dove mi vuoi trovare ?
+
+Discord : su discord ho il user : nokotanlover
+non accetto molto le amicizie da sconosciuti non provienti da altri server o da server a cui sto 
+
+Gituhb  : lo devo perforza dire?
+
+
+
+
+------------------------------------------------------
+
+
+Buona vit-volevo dire Buon Coding!
