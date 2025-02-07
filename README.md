@@ -1,6 +1,6 @@
 ## Salve👋
 
-  [![HitCount](https://hits.dwyl.com/Cat-gawr/Cat-gawr.svg?style=flat-square)](http://hits.dwyl.com/Cat-gawr/Cat-gawr)
+ [![HitCount](https://hits.dwyl.com/Cat-gawr/Cat-gawr.svg?style=flat-square)](http://hits.dwyl.com/Cat-gawr/Cat-gawr)
 
 
 alcune cose su di me : 
@@ -19,6 +19,9 @@ alcune cose su di me :
 
 6-kebab
 
+7-sono una persona abbastnza chill,mi arrabbio difficilmente .
+
+
 
 
 ### dove mi vuoi trovare ?
@@ -28,8 +31,7 @@ non accetto molto le amicizie da sconosciuti non provienti da altri server o da 
 
 GitHub  : lo devo perforza dire?
 
-
-
+sono una persona che ama i gatti:3
 
 ------------------------------------------------------
 
