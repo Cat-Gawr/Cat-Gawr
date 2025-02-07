@@ -7,7 +7,7 @@ alcune cose su di me :
 
 ------------------------------------------------------
 
--ho 14 anni e sono un programmatore di tipo ancor Junior ma sto iniziando a fare molta puù roba del solito
+1-ho 14 anni e sono un programmatore di tipo ancor Junior ma sto iniziando a fare molta più roba del solito
 
 2-uno dei miei linguaggi preferti è Python ma non sottovaluto Ruby e Cpp(C++)
 
@@ -15,7 +15,7 @@ alcune cose su di me :
 
 4-single^_-
 
-5-Phone maid : vivo 200x pro mini
+5-Phone main : vivo 200x pro mini
 
 6-kebab
 
@@ -26,7 +26,7 @@ alcune cose su di me :
 Discord : su discord ho il user : nokotanlover
 non accetto molto le amicizie da sconosciuti non provienti da altri server o da server a cui sto 
 
-Gituhb  : lo devo perforza dire?
+GitHub  : lo devo perforza dire?
 
 
 
