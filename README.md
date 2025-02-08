@@ -19,7 +19,7 @@ alcune cose su di me :
 
 6-kebab
 
-7-sono una persona abbastnza chill,mi arrabbio difficilmente .
+7-sono una persona abbastanza chill,mi arrabbio difficilmente .
 
 
 
