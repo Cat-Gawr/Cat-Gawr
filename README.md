@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">alcune cose su di me :<br><br>1-ho 14 anni e sono un programmatore di tipo ancor Junior ma sto iniziando a fare molta più roba del solito<br><br>2-uno dei miei linguaggi preferti è Python ma non sottovaluto Ruby e Cpp(C++)<br><br>3-ho utilizzato abbastanza il kernel Linux ma preferisco di stare su Windows<br><br>4-single^_-<br><br>5-Phone main : vivo 200x pro mini<br><br>6-kebab<br><br>7-sono una persona abbastanza chill,mi arrabbio difficilmente .<br><br>dove mi vuoi trovare ?<br>Discord : su discord ho il user : nokotanlover non accetto molto le amicizie da sconosciuti non provienti da altri server o da server a cui sto<br><br>GitHub : lo devo perforza dire?<br><br>sono una persona che ama i gatti:3<br><br>Buona vit-volevo dire Buon Coding!</p>
+<p align="left">alcune cose su di me :<br><br>1-ho 14 anni e sono un programmatore di tipo ancor Junior ma sto iniziando a fare molta più roba del solito<br><br>2-uno dei miei linguaggi preferti è Python ma non sottovaluto Ruby e Cpp(C++)<br><br>3-utilizzo ARCH o Gentoo btw ws<br><br>4-single^_-<br><br>5-Phone main : vivo 200x pro mini<br><br>6-kebab<br><br>7-sono una persona abbastanza chill,mi arrabbio difficilmente .<br><br>dove mi vuoi trovare ?<br>Discord : su discord ho il user : nokotanlover non accetto molto le amicizie da sconosciuti non provienti da altri server o da server a cui sto<br><br>GitHub : lo devo perforza dire?<br><br>sono una persona che ama i gatti:3<br><br>Buona vit-volevo dire Buon Coding!</p>
 
 ###
 
