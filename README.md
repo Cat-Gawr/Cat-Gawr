@@ -1,5 +1,21 @@
 <h1 align="right">HI ! my name is " < " and i use ARCH</h1>
 
+
+
+Ho 14 anni , sono un programmatore da "poco" ovvero da 13 mesi , sto usando Arch  Linux ma ho usato altri come:
+Gentoo , zorin , pop os oppure Fedora ma anche Black ARCH oppure Debian
+
+1 - fidanzato da poco tempo
+
+2 - ex windows user
+
+3 -  ho un OPPO Find X8 customizzato con Hyprland (si,strano)
+      - so customizzare qualsiasi roba
+
+4 - oltre a essere un informatico , sono anche un gran tech (  TECH 9.1 / 10 )
+
+5 -  utilizzavo kali linux su Qemu
+
 ###
 
 <div align="left">
