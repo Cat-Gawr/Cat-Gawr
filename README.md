@@ -1,8 +1,8 @@
-<h1 align="right">HI ! my name is " < " and i use ARCH</h1>
+<h1 align="right">HI ! my name is " < " and i use Endeavouros BTW </h1>
 
 
 
-Ho 14 anni , sono un programmatore da "poco" ovvero da 13 mesi , sto usando Arch  Linux ma ho usato altri come:
+Ho 14 anni , sono un programmatore da "poco" ovvero da 13 mesi , sto usando Endeavouros Linux ma ho usato altri come:
 Gentoo , zorin , pop os oppure Fedora ma anche Black ARCH oppure Debian
 
 1 - fidanzato da poco tempo
