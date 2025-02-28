@@ -10,7 +10,8 @@ Gentoo , zorin , pop os oppure Fedora ma anche Black ARCH oppure Debian
 2 - ex windows user
 
 3 -  ho un OPPO Find X8 customizzato con Hyprland (si,strano)
-      - so customizzare qualsiasi roba
+      
+- so customizzare qualsiasi roba
 
 4 - oltre a essere un informatico , sono anche un gran tech (  TECH 9.1 / 10 )
 
