@@ -1,4 +1,4 @@
-<h1 align="right">HI ! my name is " < " and i use Endeavouros BTW </h1>
+<h1 align="right">HI ! my name is " < " and i use Arch BTW </h1>
 
 
 
