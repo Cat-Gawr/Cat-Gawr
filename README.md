@@ -3,7 +3,7 @@
 
 
 Ho 14 anni , sono un programmatore da "poco" ovvero da 13 mesi , sto usando Endeavouros Linux ma ho usato altri come:
-Gentoo , zorin , pop os oppure Fedora ma anche Black ARCH oppure Debian
+Gentoo , zorin , pop os oppure Fedora ma anche Black ARCH oppure Debian 
 
 1 - single 
 
