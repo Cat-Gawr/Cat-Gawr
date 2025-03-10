@@ -13,7 +13,7 @@ Gentoo , zorin , pop os oppure Fedora ma anche Black ARCH oppure Debian
       
 - so customizzare qualsiasi roba
 
-4 - oltre a essere un informatico , sono anche un gran tech (  TECH 9.1 / 10 )
+4 - oltre a essere un informatico , sono anche un gran tech (  TECH 9.37 / 10 )
 
 5 -  utilizzavo kali linux su Qemu
 
