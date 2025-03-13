@@ -17,6 +17,14 @@ Gentoo , zorin , pop os oppure Fedora ma anche Black ARCH oppure Debian
 
 5 -  utilizzavo kali linux su Qemu
 
+# OS che ho usato  :
+Windows 10 / 11
+Linux : 
+Mint , Ubuntu , Debian , Arch , Cachy OS , gentoo , open suse , black arch , endevours OS ( quello che uso ) Zorin OS ( sul laptop SOLO PER LA
+SCUOLA ) kali linux , pop os , Fedora , Nobara e basta 
+
+----------------------------------------------------------
+
 ###
 
 <div align="left">
