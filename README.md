@@ -127,7 +127,6 @@ SCUOLA ) kali linux , pop os , Fedora , Nobara e basta
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img src="https://raw.githubusercontent.com/Cat-Gawr/Cat-Gawr/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 
 ###
 </div>
