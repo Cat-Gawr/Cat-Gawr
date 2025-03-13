@@ -133,6 +133,7 @@ SCUOLA ) kali linux , pop os , Fedora , Nobara e basta
 
 <br clear="both">
 
+----------------------------------------------------------
 
 ###
 
