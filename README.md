@@ -116,6 +116,7 @@ HI ! my name is " < " and i use Arch BTW </h1><br><br><br><br>Ho 14 anni , sono 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/QqrCpUBuWk) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Sharkky918/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@gawr.cat?is_from_webapp=1&sender_device=pc) 
+( ho reddit e tiktok ma il colleggamento non va :P )
 
 --------------------------------------------
 
