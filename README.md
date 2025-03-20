@@ -1,5 +1,7 @@
 # 💫 About Me:
-HI ! my name is " < " and i use Arch BTW </h1><br><br><br><br>Ho 14 anni , sono un programmatore da "poco" ovvero da 13 mesi , sto usando Endeavouros Linux ma ho usato altri come:<br>Gentoo , zorin , pop os oppure Fedora ma anche Black ARCH oppure Debian <br><br>1 - single <br><br>2 - ex windows user<br><br>3 -  ho un OPPO Find X8 customizzato con Hyprland (si,strano)<br>      <br>- so customizzare qualsiasi roba<br><br>4 - oltre a essere un informatico , sono anche un gran tech (  TECH 9.37 / 10 )<br><br>5 -  utilizzavo kali linux su Qemu<br><br># OS che ho usato  :<br><br>Windows 10 / 11<br><br>Linux : <br>Mint , Ubuntu , Debian , Arch , Cachy OS , gentoo , open suse , black arch , endevours OS ( quello che uso ) Zorin OS ( sul laptop SOLO PER LA<br>SCUOLA ) kali linux , pop os , Fedora , Nobara e basta <br>
+HI ! my name is " < " and i use Arch BTW </h1><br><br><br><br>Ho 14 anni , sono un programmatore da "poco" ovvero da 13 mesi , sto usando Endeavouros Linux ma ho usato altri come:<br>Gentoo , zorin , pop os oppure Fedora ma anche Black ARCH oppure Debian <br><br>1 - single <br><br>2 - ex windows user<br><br>3 -  ho un OPPO Find X8 customizzato con Hyprland (si,strano)<br>      <br>- so customizzare qualsiasi roba<br><br>4 - oltre a essere un informatico , sono anche un gran tech (  TECH 9.37 / 10 )<br><br>5 -  utilizzavo kali linux su Qemu<br><br>
+# OS che ho usato  
+:<br><br>Windows 10 / 11<br><br>Linux : <br>Mint , Ubuntu , Debian , Arch , Cachy OS , gentoo , open suse , black arch , endevours OS ( quello che uso ) Zorin OS ( sul laptop SOLO PER LA<br>SCUOLA ) kali linux , pop os , Fedora , Nobara e basta <br>
 
 --------------------------------------------
 
