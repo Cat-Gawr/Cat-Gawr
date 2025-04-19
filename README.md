@@ -1,5 +1,6 @@
 # 💫 About Me:
-HI ! my name is " < " 
+Ciao ! mi chiamo andrea ma chiamati Kona 
+
 
 <h1 align="center">Alcune cose su di me</h1>
 
