@@ -4,7 +4,7 @@ HI ! my name is " < "
 <h1 align="center">Alcune cose su di me</h1>
 
 <h4>
- Ho 14 anni , sono un programmatore da "poco" ovvero da 14.2 mesi , sto usando windows 11 pro ma ho usato altri come:
+ Ho 14 anni , sono un programmatore da "poco" ovvero da 14.2 mesi , sto usando Windows 10 LSTTC IoT ma ho usato altri come:
 Gentoo , zorin , pop os oppure Fedora ma anche Black ARCH oppure Debian
 
 1 - single
