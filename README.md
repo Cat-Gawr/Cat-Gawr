@@ -1,8 +1,44 @@
 # 💫 About Me:
 HI ! my name is " < " 
-</h1><br><br><br><br>Ho 14 anni , sono un programmatore da "poco" ovvero da 14.2 mesi , sto usando windows 11 pro ma ho usato altri come:<br>Gentoo , zorin , pop os oppure Fedora ma anche Black ARCH oppure Debian <br><br>1 - single <br><br>2 - windows user<br><br>3 - ho un xiaomi 14 PRO <br>      <br>- so customizzare qualsiasi roba<br><br>4 - oltre a essere un informatico , sono anche un gran tech (  TECH 9.39 / 10 )<br><br>5 -  utilizzavo kali linux su Qemu<br><br>
- OS che ho usato  :
-<br><br>Windows 10 / 11<br><br>Linux : <br>Mint , Ubuntu , Debian , Arch , Cachy OS , gentoo , open suse , black arch , endevours OS ( quello che uso ) Zorin OS ( sul laptop SOLO PER LA<br>SCUOLA ) kali linux , pop os , Fedora , Nobara e basta <br>
+
+<h1 align="center">Alcune cose su di me</h1>
+
+<h4>
+ Ho 14 anni , sono un programmatore da "poco" ovvero da 14.2 mesi , sto usando windows 11 pro ma ho usato altri come:
+Gentoo , zorin , pop os oppure Fedora ma anche Black ARCH oppure Debian
+
+1 - single
+
+2 - windows user:
+
+    2.5 - attualmente sto usando Windows 10 LSTC
+
+    mi ci trovo molto bene , con VsCode , HeX ,Visual Studio
+
+    in poche parole ? MI CI TROVO STRA BENE CON TUTTO  !
+   
+
+3 - ho un xiaomi 14 PRO
+
+    - è molto buono
+ 
+
+4 - oltre a essere un informatico , sono anche un gran tech ( TECH 9.39 / 10 )
+
+5 -  Amo C++, Vim, HexEditor, VsCode  ~ insiders 
+
+--------------------------------------------
+
+OS che ho usato :
+
+Windows 10 / 11 Pro
+
+
+Linux :
+Mint , Ubuntu , Debian , Arch , Cachy OS , gentoo , open suse , black arch , endevours OS ( quello che uso ) Zorin OS ( sul laptop SOLO PER LA
+SCUOLA ) kali linux , pop os , Fedora , Nobara e basta
+  <h5>non mi paice pià Linux, troppo complicato ¬_¬</h5>
+</h4>
 
 --------------------------------------------
 
