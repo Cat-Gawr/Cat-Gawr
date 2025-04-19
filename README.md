@@ -5,14 +5,14 @@ Ciao ! mi chiamo andrea ma chiamati Kona
 <h1 align="center">Alcune cose su di me</h1>
 
 <h4>
- Ho 14 anni , sono un programmatore da "poco" ovvero da 14.2 mesi , sto usando Windows 10 LSTC IoT ma ho usato altri come:
+ Ho 14 anni , sono un programmatore da "poco" ovvero da 14.2 mesi , sto usando Windows 11 pro ma ho usato altri come:
 Gentoo , zorin , pop os oppure Fedora ma anche Black ARCH oppure Debian
 
 1 - single
 
 2 - windows user:
 
-    2.5 - attualmente sto usando Windows 10 LSTC
+    2.5 - attualmente sto usando Windows 11 pro 
 
     mi ci trovo molto bene , con VsCode , HeX ,Visual Studio
 
@@ -26,7 +26,7 @@ Gentoo , zorin , pop os oppure Fedora ma anche Black ARCH oppure Debian
 
 4 - oltre a essere un informatico , sono anche un gran tech ( TECH 9.39 / 10 )
 
-5 -  Amo C++, Vim, HexEditor, VsCode  ~ insiders 
+5 -  Amo C++, Evangelion , HexEditor, VsCode  ~ insiders 
 
 --------------------------------------------
 
