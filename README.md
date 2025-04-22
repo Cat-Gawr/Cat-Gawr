@@ -39,12 +39,24 @@ https://pcpartpicker.com/list/LMnB9C
 
 OS che ho usato :
 
-Windows 10 / 11 Pro
+Windows  :
+
+  - Windows 8.1
+
+  - Windows 10 Home ( passasto alla versione Pro )+
+
+  - Windows 10 LSTC
+  
+       - WIndows 10 IoT LSTC
+   
+  - Windows 11 Pro ( quello suo attualmente )
+
+----------------------------------------------
 
 
 Linux :
-Mint , Ubuntu , Debian , Arch , Cachy OS , gentoo , open suse , black arch , endevours OS ( quello che uso ) Zorin OS ( sul laptop SOLO PER LA
-SCUOLA ) kali linux , pop os , Fedora , Nobara e basta
+Mint , Ubuntu , Debian , Arch , Cachy OS , gentoo , open suse , black arch , endevours OS , Zorin OS ,
+kali linux , pop os , Fedora , Nobara e basta
   <h5>non mi paice pià Linux, troppo complicato ¬_¬</h5>
 </h4>
 
