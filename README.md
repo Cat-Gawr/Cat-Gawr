@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ciao ! mi chiamo andrea ma chiamati Kona 
+Ciao ! mi chiamo andrea ma chiamtevi anche  Kona  / Konata
 
 
 <h1 align="center">Alcune cose su di me</h1>
