@@ -29,6 +29,13 @@ Gentoo , zorin , pop os oppure Fedora ma anche Black ARCH oppure Debian
 5 -  Amo C++, Evangelion , HexEditor, VsCode  ~ insiders 
 
 --------------------------------------------
+# PC Build : 
+
+
+https://pcpartpicker.com/list/LMnB9C
+
+
+--------------------------------------------
 
 OS che ho usato :
 
