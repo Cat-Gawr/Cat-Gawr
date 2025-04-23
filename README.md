@@ -5,7 +5,7 @@
 
 
 
-<h3 align="center"> Ciao ! mi chiamo andrea ma chiamtevi anche  Kona  / Konata </h3>
+<h3 align="center"> Ciao ! mi chiamo andrea ma chiamatemi  anche  Kona  / Konata </h3>
 
 
 <h1 align="center">Alcune cose su di me</h1>
