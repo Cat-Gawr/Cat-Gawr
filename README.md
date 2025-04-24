@@ -63,7 +63,8 @@ Windows  :
 Linux :
 Mint , Ubuntu , Debian , Arch , Cachy OS , gentoo , open suse , black arch , endevours OS , Zorin OS ,
 kali linux , pop os , Fedora , Nobara e basta
-  <h5>non mi paice pià Linux, troppo complicato ¬_¬</h5>
+  <h5>non mi paice più Linux, troppo complicato ¬_¬</h5>
+  <h6>in realtà fa proprio schifo </h6>
 </h4>
 
 --------------------------------------------
