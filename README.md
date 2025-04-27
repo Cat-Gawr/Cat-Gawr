@@ -38,7 +38,7 @@ Gentoo , zorin , pop os oppure Fedora ma anche Black ARCH oppure Debian
 # PC Build : 
 
 
-(https://pcpartpicker.com/list/WGmmJn)
+https://pcpartpicker.com/list/8mP8C8
 
 --------------------------------------------
 
