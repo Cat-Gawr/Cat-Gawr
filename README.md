@@ -44,7 +44,7 @@ https://pcpartpicker.com/list/jnZXWc
 
 OS che ho usato :
 
-Windows  :
+<h3>Windows  :</h3>
 
   - Windows 8.1
 
@@ -59,11 +59,45 @@ Windows  :
 ----------------------------------------------
 
 
-Linux :
-Mint , Ubuntu , Debian , Arch , Cachy OS , gentoo , open suse , black arch , endevours OS , Zorin OS ,
-kali linux , pop os , Fedora , Nobara e basta
-  <h5>non mi paice più Linux, troppo complicato ¬_¬</h5>
-  <h6>in realtà fa proprio schifo </h6>
+<h3>Linux :</h3>
+
+•Mint 
+>[!IMPORTANT]
+>
+>nella mia scuola si usa Linux Mint, con Vi, , quindi utilizzo
+>
+>in PARTE Mint
+
+•Ubuntu 
+
+•Debian 
+
+•Arch 
+
+•Cachy OS 
+
+•gentoo 
+
+•open suse
+>[!IMPORTANT]
+>
+>stessa cosa per Mint
+
+•black arch 
+
+•endevours OS
+
+•Zorin OS 
+
+•kali linux 
+
+•pop os  
+
+•Fedora 
+
+•Nobara e basta
+  <h5>mi piace, infatti adesso sono passato per poco su Ubuntu, ma per poco</h5>
+  <h6>yay</h6>
 </h4>
 
 --------------------------------------------
