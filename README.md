@@ -27,7 +27,8 @@ Gentoo , zorin , pop os oppure Fedora ma anche Black ARCH oppure Debian
 
 3 - ho un xiaomi 14 PRO
 
-    - è molto buono
+  
+      3.5 - è molto buono
  
 
 4 - oltre a essere un informatico , sono anche un gran tech ( TECH 9.39 / 10 )
