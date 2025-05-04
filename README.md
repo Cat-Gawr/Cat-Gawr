@@ -97,8 +97,8 @@ OS che ho usato :
 •Fedora 
 
 •Nobara e basta
-  <h5>mi piace, infatti adesso sono passato per poco su Ubuntu, ma per poco</h5>
-  <h6>yay</h6>
+  <h5>voglio l'estate:(</h5>
+  <h6>agosto is the best </h6>
 </h4>
 
 --------------------------------------------
