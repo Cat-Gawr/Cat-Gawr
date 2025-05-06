@@ -224,7 +224,7 @@ OS che ho usato :
 --------------------------------------------
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Cat-Gawr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Cat-Gawr&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Cat-Gawre&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cat-Gawr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
