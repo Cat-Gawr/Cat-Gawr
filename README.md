@@ -213,7 +213,7 @@ OS che ho usato :
 <br clear="both">
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/QqrCpUBuWk) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Sharkky918/](https://www.reddit.com/user/Sharkky918/)) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@gawr.cat?is_from_webapp=1&sender_device=pc) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/QqrCpUBuWk) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Sharkky918/](https://www.reddit.com/user/Sharkky918/)) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)]([https://tiktok.com/@https://www.tiktok.com/@gawr.cat?is_from_webapp=1&sender_device=pc](https://www.youtube.com/watch?v=FIYksuvx4lY)) 
 ( ho reddit e tiktok ma il colleggamento non va :P )
 
 --------------------------------------------
