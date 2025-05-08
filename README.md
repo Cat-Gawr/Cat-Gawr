@@ -11,7 +11,7 @@
 <h1 align="center">Alcune cose su di me</h1>
 
 <h4>
- Ho 14 anni , sono un programmatore da "poco" ovvero da 14.2 mesi , sto usando Windows 11 pro ma ho usato altri come:
+ Ho 14 anni , sono un programmatore da "poco" ovvero da 15.1 mesi , sto usando Windows 11 pro ma ho usato altri come:
 Gentoo , zorin , pop os oppure Fedora ma anche Black ARCH oppure Debian
 
 1 - single
@@ -232,3 +232,4 @@ OS che ho usato :
 [![](https://visitcount.itsvg.in/api?id=Cat-Gawr&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Copyright ufficiale Konata 2025 | made by LINUX--->
