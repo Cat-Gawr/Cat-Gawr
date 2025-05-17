@@ -2,7 +2,7 @@
 
 
 --------------------------------------------------------------
-<h3>SONO IN VACANZA!</h3>
+
 
 
 <h3 align="center"> Ciao ! mi chiamo andrea ma chiamatemi  anche  Kona  / Konata </h3>
