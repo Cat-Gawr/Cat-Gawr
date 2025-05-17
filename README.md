@@ -33,7 +33,7 @@ Gentoo , zorin , pop os oppure Fedora ma anche Black ARCH oppure Debian
 
 4 - oltre a essere un informatico , sono anche un gran tech ( TECH 9.39 / 10 )
 
-5 -  Amo C++, Evangelion , HexEditor, VsCode  ~ insiders 
+5 -  Amo C++ , HexEditor, VsCode  ~ insiders 
 
 --------------------------------------------
 # PC Build : 
@@ -232,4 +232,4 @@ OS che ho usato :
 [![](https://visitcount.itsvg.in/api?id=Cat-Gawr&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Copyright ufficiale Konata 2025 | made by LINUX--->
+<!-- Copyright ufficiale Konata 2025 --->
