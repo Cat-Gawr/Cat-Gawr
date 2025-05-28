@@ -232,3 +232,13 @@ OS che ho usato :
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Copyright ufficiale Konata 2025 --->
 
+
+
+
+
+
+
+
+
+
+
