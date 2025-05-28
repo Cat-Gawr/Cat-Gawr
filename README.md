@@ -3,7 +3,6 @@
 --------------------------------------------------------------
 
 
-
 <h3 align="center"> Ciao ! mi chiamo andrea ma chiamatemi  anche  Kona  / Konata </h3>
 
 
