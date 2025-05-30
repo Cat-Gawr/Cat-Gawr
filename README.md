@@ -232,12 +232,4 @@ OS che ho usato :
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Copyright ufficiale Konata 2025 --->
 <!-- Copyright ufficiale Konata 2025 --->
-<!-- Copyright ufficiale Konata 2025 --->
-<!-- Copyright ufficiale Konata 2025 --->
-<!-- Copyright ufficiale Konata 2025 --->
-<!-- Copyright ufficiale Konata 2025 --->
-<!-- Copyright ufficiale Konata 2025 --->
-<!-- Copyright ufficiale Konata 2025 --->
-<!-- Copyright ufficiale Konata 2025 --->
-<!-- Copyright ufficiale Konata 2025 --->
-
+<!-- boh --->
