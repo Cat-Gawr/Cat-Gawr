@@ -2,7 +2,9 @@
 
 --------------------------------------------------------------
 
-
+AVVISO:
+in questo periodo voglio rilassarmi , quinidi tutti i progetti subiranno ritardi
+ 
 <h3 align="center"> Ciao ! mi chiamo andrea ma chiamatemi  anche  Kona  / Konata </h3>
 
 
