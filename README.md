@@ -2,8 +2,9 @@
 
 --------------------------------------------------------------
 
-AVVISO:
-in questo periodo voglio rilassarmi , quinidi tutti i progetti subiranno ritardi
+<h3 align="center"> AVVISO: in questo periodo voglio rilassarmi , quinidi tutti i progetti subiranno ritardi
+<h2 align="center"> AVVISO 2: probabilmente ritornerò a settembre ! ! vi dirò fra 2 settimane
+
  
 <h3 align="center"> Ciao ! mi chiamo andrea ma chiamatemi  anche  Kona  / Konata </h3>
 
